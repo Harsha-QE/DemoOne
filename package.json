@@ -1,0 +1,23 @@
+{
+  "name": "demoone",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsha-QE/DemoOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harsha-QE/DemoOne/issues"
+  },
+  "homepage": "https://github.com/Harsha-QE/DemoOne#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
